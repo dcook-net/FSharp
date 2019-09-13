@@ -1,0 +1,24 @@
+# IDE
+.vscode/
+.idea/
+.vs/
+*.user
+
+# Test Results
+TestResult.xml
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+packages/
+.nuget/
+project.lock.json
+
+# Sonarlint
+*.ruleset
+*.slconfig
+
+*DS_Store*
+*.idea*
