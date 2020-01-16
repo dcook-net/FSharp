@@ -6,8 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Controllers\PrimeMaths.fs" />
-        <Compile Include="Controllers\MathsController.fs" />
+        <Compile Include="PrimeMaths.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
